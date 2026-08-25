@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" role="img" aria-labelledby="title desc">
+  <title id="title">Agence nationale de la recherche</title>
+  <desc id="desc">Logo ANR en bleu et rouge</desc>
+  <rect width="760" height="220" fill="#ffffff"/>
+  <g transform="translate(28 28)">
+    <text x="0" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="128" font-weight="700" letter-spacing="-10">
+      <tspan fill="#477fc0">an</tspan><tspan fill="#e84933">r</tspan>
+    </text>
+    <circle cx="267" cy="27" r="13" fill="none" stroke="#477fc0" stroke-width="4"/>
+    <circle cx="267" cy="27" r="4" fill="#477fc0"/>
+    <text x="305" y="74" font-family="Georgia, 'Times New Roman', serif" font-size="39" font-weight="700" fill="#477fc0">agence nationale</text>
+    <text x="305" y="118" font-family="Georgia, 'Times New Roman', serif" font-size="39" font-weight="700" fill="#477fc0">de la recherche</text>
+  </g>
+</svg>

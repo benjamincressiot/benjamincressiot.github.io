@@ -1,0 +1,87 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+<div class="cv-page">
+
+<section class="cv-hero">
+<div class="cv-inner">
+<span class="research-v8-kicker">CURRICULUM VITAE</span>
+# Dr. Benjamin Cressiot, HDR
+<p class="cv-lead">Associate Professor of Biochemistry and Molecular Biology at CY Cergy Paris Université and researcher at LAMBE, CNRS UMR 8587.</p>
+</div>
+</section>
+
+<section class="cv-section">
+<div class="cv-inner">
+
+## Academic positions
+
+<div class="career-list">
+
+<div class="career-item"><span>Since 2019</span><div><h3>Associate Professor</h3><p>CY Cergy Paris Université · LAMBE · CNRS UMR 8587</p></div></div>
+<div class="career-item"><span>2018–2019</span><div><h3>Postdoctoral Researcher</h3><p>LAMBE, University of Evry — biomarker detection from human samples using nanopores.</p></div></div>
+<div class="career-item"><span>2015–2018</span><div><h3>Postdoctoral Researcher</h3><p>Meni Wanunu laboratory, Northeastern University, USA — portal proteins and hybrid nanopores.</p></div></div>
+<div class="career-item"><span>2012–2015</span><div><h3>Postdoctoral Researcher</h3><p>Patricia L. Clark laboratory, University of Notre Dame, USA — protein transport through aerolysin.</p></div></div>
+<div class="career-item"><span>2009–2012</span><div><h3>PhD in Biophysics</h3><p>LAMBE, University of Evry — protein folding and nanopore transport.</p></div></div>
+
+</div>
+
+## Education
+
+- **2025:** HDR in Life Sciences, CY Cergy Paris Université.
+- **2009–2012:** PhD in Biophysics, University of Evry Paris-Saclay.
+- **2008–2009:** Master 2 in Cellular and Molecular Biology, University of Cergy-Pontoise.
+- **2007–2008:** Master 1 in Biotechnology and Biomedicine, University of Alicante, Erasmus.
+- **2003–2007:** Licence in Biology, University of Cergy-Pontoise.
+
+## Scientific indicators
+
+<div class="cv-stat-grid">
+<div><strong>26</strong><span>Peer-reviewed articles</span></div>
+<div><strong>1,719</strong><span>Google Scholar citations</span></div>
+<div><strong>19</strong><span>h-index</span></div>
+<div><strong>20</strong><span>i10-index</span></div>
+</div>
+
+## International invited lectures
+
+- **July 2025 · Xi’an, China (online)** — *Biomarker detection and conformational sensing using nanopores.* 6th International Conference on Biomedical Engineering and Bioinformatics for Health — Guest lecture.
+- **December 2024 · Nanjing, China** — *Protein analysis by nanopores, from long polypeptides to peptides.* 2024 Nanopore Electrochemistry Meeting — Guest lecture.
+- **July 2023 · France (online)** — *Nanopore discrimination of coagulation biomarker derivatives and characterization of a post-translational modification.* International Conference on Innovative Therapeutic Solutions — Guest lecture.
+- **July 2023 · Lyon, France** — *Nanopore discrimination of coagulation biomarker derivatives and characterization of a post-translational modification.* Nanofluidics in Physics and Biology 2023 — Guest lecture.
+- **August 2021 · Rennes, France (online)** — *Single-sulfur resolution polysulfide sensing: first steps in nanopores as battery sensors.* Journées de la matière condensée — Guest lecture.
+- **October 2020 · Nanjing University, China (online)** — *Single-sulfur resolution polysulfide sensing: first steps in nanopores as battery sensors.* Nanopore Electrochemistry Meeting — Guest lecture.
+
+## Oral communications and posters
+
+<div class="career-list cv-talk-list">
+
+<div class="career-item"><span>Jun 2025</span><div><h3>Nanopores for the detection of biomarkers toward early diagnosis</h3><p>CY Cergy Paris University Nanopore Meeting, France · <strong>Oral communication</strong></p></div></div>
+<div class="career-item"><span>Apr 2025</span><div><h3>Nanopores for the detection of biomarkers toward early diagnosis</h3><p>Nanjing University, China · <strong>Oral communication</strong></p></div></div>
+<div class="career-item"><span>Dec 2024</span><div><h3>Detection of peptide biomarkers using aerolysin</h3><p>Zhejiang Sci-Tech University, China · <strong>Oral communication</strong></p></div></div>
+<div class="career-item"><span>Jun 2024</span><div><h3>Detection of peptide biomarkers using aerolysin</h3><p>Shanghai Normal University, China · <strong>Oral communication</strong></p></div></div>
+<div class="career-item"><span>Feb 2023</span><div><h3>Nanopore discrimination of coagulation biomarker derivatives and characterization of a post-translational modification</h3><p>Biophysical Society 67th Annual Meeting, San Diego, USA · <strong>Oral communication</strong></p></div></div>
+<div class="career-item"><span>Feb 2018</span><div><h3>Porphyrin-assisted docking of a thermophage portal protein into lipid bilayers: nanopore engineering and characterization</h3><p>Biophysical Society 62nd Annual Meeting, Baltimore, USA · <strong>Poster</strong></p></div></div>
+<div class="career-item"><span>Feb 2015</span><div><h3>Dynamics and energy contributions for transport of pertactin through an aerolysin nanopore</h3><p>Biophysical Society 59th Annual Meeting, Baltimore, USA · <strong>Poster</strong></p></div></div>
+<div class="career-item"><span>Sep 2014</span><div><h3>Dynamics and energy contributions for transport of pertactin through an aerolysin nanopore</h3><p>28th Annual Gibbs Conference on Biothermodynamics, Carbondale, USA · <strong>Oral communication</strong></p></div></div>
+<div class="career-item"><span>Jan 2013</span><div><h3>Protein and solid-state nanopores as molecular sensors of protein conformation</h3><p>18th Annual Midwest Stress Response and Molecular Chaperone Meeting, Chicago, USA · <strong>Oral communication</strong></p></div></div>
+<div class="career-item"><span>Dec 2011</span><div><h3>Solid-state nanopores for biomolecule detection</h3><p>Nanopore workshop “Controlled molecular sensing using Nanopores”, Imperial College London, UK · <strong>Poster</strong></p></div></div>
+<div class="career-item"><span>Nov 2011</span><div><h3>Understanding protein transport through solid-state nanopores: folding perspectives</h3><p>BIT’s 2nd Annual World Congress of NanoMedicine, Shenzhen, China · <strong>Oral communication</strong></p></div></div>
+<div class="career-item"><span>Jun 2011</span><div><h3>Solid-state nanopores as a molecular sensor for protein conformations</h3><p>Nanofluidics in Biology, Heraeus Workshop, Bremen, Germany · <strong>Oral communication</strong></p></div></div>
+<div class="career-item"><span>Sep 2010</span><div><h3>Transport of native or completely unfolded proteins through a solid-state nanopore at the single-molecule level</h3><p>ICNP 2010, Kottayam, India · <strong>Oral communication</strong></p></div></div>
+<div class="career-item"><span>Aug 2010</span><div><h3>Transport of native or completely unfolded proteins through a solid-state nanopore at the single-molecule level</h3><p>Summer school “Biosensing with channels”, Berder, France · <strong>Oral communication</strong></p></div></div>
+
+</div>
+
+## Patents
+
+1. **Method for detection of peptide biomarkers** — Patent No. 11002657.
+2. **Lipid-free anchoring of thermophilic bacteriophage G20C portal adapter into solid-state nanopores** — US11933778B2.
+
+</div>
+</section>
+
+</div>

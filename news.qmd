@@ -1,0 +1,140 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="news-v38-page">
+
+<section class="news-v38-hero">
+  <div class="news-v38-inner news-v38-hero-grid">
+    <div>
+      <span class="news-v38-kicker">NEWS &amp; HIGHLIGHTS</span>
+      <h1>Research in motion</h1>
+      <p>Selected publications, collaborations, team milestones and scientific events from the Cressiot nanopore research programme.</p>
+    </div>
+    <div class="news-v38-year">2026</div>
+  </div>
+</section>
+
+<section class="news-v38-section">
+  <div class="news-v38-inner">
+    <div class="news-v38-section-heading">
+      <div>
+        <span class="news-v38-section-label">LATEST UPDATES</span>
+        <h2>Highlights from 2026</h2>
+      </div>
+      <p>A year of new single-molecule results, expanding applications and growing collaborations.</p>
+    </div>
+
+    <div class="news-v38-feature-grid">
+      <article class="news-v38-card">
+        <div class="news-v38-image news-v38-image-contain">
+          <img src="assets/publication-toc/small-gut-hormones-toc.jpeg" alt="Graphical abstract for gut-hormone biomarker sensing">
+        </div>
+        <div class="news-v38-content">
+          <div class="news-v38-meta"><span>PUBLICATION</span><time>3 August 2026</time></div>
+          <h3>Gut-hormone biomarkers resolved in human serum</h3>
+          <p>Published in <em>Small</em>, this study demonstrates discrimination of sulfated and unsulfated CCK-8 biomarkers in 20% human serum.</p>
+          <a href="https://doi.org/10.1002/smll.74968">View publication <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+
+      <article class="news-v38-card news-v38-card-large">
+        <div class="news-v38-image news-v38-image-cover">
+          <img src="images/elysee.jpg" alt="Benjamin Cressiot and Pierre Defrenaix at the Palais de l’Élysée">
+        </div>
+        <div class="news-v38-content">
+          <div class="news-v38-meta"><span>SCIENTIFIC OUTREACH</span><time>23 July 2026</time></div>
+          <h3>Nanopore diagnostics discussed at the Élysée Palace</h3>
+          <p>Benjamin Cressiot and Pierre Defrenaix (Excilone) met at the Palais de l’Élysée to discuss the future of DreamPore, a startup hosted at CY Cergy Paris Université, and the development of nanopore-based molecular diagnostics.</p>
+          <a href="funding-collaborations.qmd">Funding & innovation <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+    </div>
+
+    <div class="news-v38-grid">
+      <article class="news-v38-card news-v38-card-large">
+        <div class="news-v38-image news-v38-image-contain">
+          <img src="assets/publication-toc/nature-communications-fig1.png" alt="Figure from the Nature Communications publication">
+        </div>
+        <div class="news-v38-content">
+          <div class="news-v38-meta"><span>PUBLICATION</span><time>2026</time></div>
+          <h3>New work published in Nature Communications</h3>
+          <p>A major contribution advancing the use of nanopores to resolve molecular information at the single-molecule level.</p>
+          <a href="publications.qmd">Explore the publication record <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+
+      <article class="news-v38-card news-v38-card-programmes">
+        <div class="news-v38-programme-logos" aria-label="Research programme logos">
+          <img src="assets/programme-logos/pepr-molecularxiv.png" alt="PEPR MolecularXiv">
+          <img src="assets/programme-logos/pepr-sensiga.jpeg" alt="PEPR SENSIGA">
+          <img src="assets/programme-logos/prometheus.svg" alt="PROMETHEUS">
+        </div>
+        <div class="news-v38-content">
+          <div class="news-v38-meta"><span>COLLABORATIONS</span><time>2026</time></div>
+          <h3>Research networks spanning health, molecular data and energy</h3>
+          <p>Ongoing participation in PEPR MolecularXiv, PEPR SENSIGA and the PROMETHEUS ecosystem broadens the reach of nanopore science.</p>
+          <a href="funding-collaborations.qmd">Explore programmes <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+
+      <article class="news-v38-card news-v38-card-team">
+        <div class="news-v38-team-strip">
+          <img src="assets/profile/soching-luikham.jpeg" alt="Soching Luikham">
+          <img src="assets/profile/luca-iesu.jpeg" alt="Luca Iesu">
+          <img src="assets/profile/laura-ratinho.jpeg" alt="Laura Ratinho">
+          <div class="news-v38-team-count"><strong>3</strong><span>Master 1 students</span></div>
+        </div>
+        <div class="news-v38-content">
+          <div class="news-v38-meta"><span>TEAM</span><time>2026</time></div>
+          <h3>The research team continues to grow</h3>
+          <p>Postdoctoral researcher Soching LUIKHAM, recruited in October 2025 to work on synthetic-polymer detection and molecular information reading, joins doctoral researchers Laura Ratinho and Luca Iesu; the team also welcomes Mélanie De Magalhaes, Kalifa Sidibé and Ilies Hakimi in 2026.</p>
+          <a href="team.qmd">Meet the team <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+
+      <article class="news-v38-card">
+        <div class="news-v38-image news-v38-image-contain">
+          <img src="assets/publication-toc/chemical-science-proline-toc.png" alt="Chemical Science graphical abstract">
+        </div>
+        <div class="news-v38-content">
+          <div class="news-v38-meta"><span>PUBLICATIONS</span><time>2025</time></div>
+          <h3>Two contributions in Chemical Science</h3>
+          <p>New results strengthen the programme on molecular discrimination, peptide structure and nanopore transport.</p>
+          <a href="publications.qmd">See publications <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+
+      <article class="news-v38-card">
+        <div class="news-v38-image news-v38-image-contain">
+          <img src="assets/publication-toc/acs-nano-oxytocin-toc.jpeg" alt="ACS Nano oxytocin graphical abstract">
+        </div>
+        <div class="news-v38-content">
+          <div class="news-v38-meta"><span>PUBLICATION</span><time>2025</time></div>
+          <h3>Single-molecule peptide sensing in ACS Nano</h3>
+          <p>The work expands the ability of nanopores to distinguish closely related peptide structures and biologically relevant variants.</p>
+          <a href="publications.qmd">Read the research highlights <span aria-hidden="true">→</span></a>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="news-v38-closing">
+  <div class="news-v38-inner">
+    <div>
+      <span class="news-v38-section-label">FOLLOW THE RESEARCH</span>
+      <h2>Reading molecular information, one molecule at a time.</h2>
+    </div>
+    <div class="news-v38-actions">
+      <a class="news-v38-button news-v38-button-primary" href="publications.qmd">Publications</a>
+      <a class="news-v38-button" href="contact.qmd">Contact</a>
+    </div>
+  </div>
+</section>
+
+</div>
+```

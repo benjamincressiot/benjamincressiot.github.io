@@ -1,0 +1,104 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+<div class="cv-page">
+
+<section class="cv-hero">
+<div class="cv-inner">
+<span class="research-v8-kicker">PROJECTS & FUNDING</span>
+# Research programmes
+<p class="cv-lead">Competitive funding supporting nanopore sensing, biomarker analysis, molecular information and energy-related applications.</p>
+</div>
+</section>
+
+<section class="cv-section">
+<div class="cv-inner">
+
+## Current and recent funding
+
+<div class="funding-timeline">
+
+<div class="funding-item">
+<span>2025–2029</span>
+<div>
+### CY Initiative — Générations PNADS
+**Project Leader** · €187.8k  
+Strategic programme on molecular information storage by nanopores, focused on the single-molecule reading and decoding of sequence-defined informational polymers.
+</div>
+</div>
+
+<div class="funding-item">
+<span>2023–2027</span>
+<div>
+### ANR JCJC “QuaBioNHy”
+**€359k** · ANR-23-CE44-0013
+</div>
+</div>
+
+<div class="funding-item">
+<span>2023–2026</span>
+<div>
+### DGA / Doctoral School co-funded PhD
+**€125k**
+</div>
+</div>
+
+<div class="funding-item">
+<span>2021–2023</span>
+<div>
+### CY Initiative of Excellence — Emergence
+**€30k**
+</div>
+</div>
+
+<div class="funding-item">
+<span>2021</span>
+<div>
+### DIM Respore / RS2E postdoctoral funding
+**€100k**
+</div>
+</div>
+
+<div class="funding-item">
+<span>2020</span>
+<div>
+### DIM Respore equipment funding
+**€34k**
+</div>
+</div>
+
+<div class="funding-item">
+<span>2019–2021</span>
+<div>
+### GENOPOLE return postdoctoral fellowship
+**€135k**
+</div>
+</div>
+
+<div class="funding-item">
+<span>2016–2017</span>
+<div>
+### Royal Society International Exchanges
+**£6k**
+</div>
+</div>
+
+</div>
+
+## Research networks
+
+<div class="programme-band">
+<div>PEPR MolecularXiv</div>
+<div>PEPR SENSIGA Batteries</div>
+<div>IHU Prometheus / SEPSIS</div>
+<div>DIM Respore</div>
+<div>DIM MatérE</div>
+</div>
+
+</div>
+</section>
+
+</div>

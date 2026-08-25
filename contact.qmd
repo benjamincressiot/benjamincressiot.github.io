@@ -1,0 +1,48 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+<div class="cv-page">
+
+<section class="cv-hero">
+<div class="cv-inner">
+<span class="research-v8-kicker">CONTACT</span>
+# Get in touch
+<p class="cv-lead">For research collaborations, student supervision, invited lectures and scientific enquiries.</p>
+</div>
+</section>
+
+<section class="cv-section">
+<div class="cv-inner contact-grid-v9">
+
+<div>
+## Dr. Benjamin Cressiot, HDR
+
+Associate Professor of Biochemistry and Molecular Biology  
+LAMBE · CNRS UMR 8587  
+CY Cergy Paris Université
+
+**Address**  
+2 Avenue Adolphe Chauvin  
+95300 Pontoise, France
+
+**Email**  
+[benjamin.cressiot@cyu.fr](mailto:benjamin.cressiot@cyu.fr)
+</div>
+
+<div>
+## Academic profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=j6joo1gAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0001-9319-3152)
+- [LinkedIn](https://fr.linkedin.com/in/benjamin-cressiot-1a53a887)
+- [LAMBE profile](https://www.lambe.univ-evry.fr/recherche-et-equipes/membres-permanents/membres-permanents/benjamin-cressiot.html)
+- [CY Cergy Paris Université profile](https://www.cyu.fr/recherche-innovation/annuaire-chercheurs/cressiot-benjamin)
+</div>
+
+</div>
+</section>
+
+</div>

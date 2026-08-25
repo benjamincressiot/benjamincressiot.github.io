@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260">
+<rect width="420" height="260" fill="#fff"/>
+<g transform="translate(40 10)"><rect x="110" y="142" width="170" height="52" rx="20" fill="#9eb3cf"/><rect x="174" y="112" width="42" height="118" rx="18" fill="#365a86"/><ellipse cx="195" cy="112" rx="50" ry="24" fill="#b8c8dc" stroke="#365a86" stroke-width="5"/><ellipse cx="195" cy="230" rx="42" ry="16" fill="#8099b8"/>
+<path d="M52 62 C90 35 118 93 150 62 S212 33 246 62 S300 90 334 61" fill="none" stroke="#506a8b" stroke-width="7"/>
+<g fill="#1f66d1"><circle cx="53" cy="62" r="9"/><circle cx="103" cy="61" r="9"/><circle cx="151" cy="62" r="9"/><circle cx="198" cy="62" r="9"/><circle cx="247" cy="62" r="9"/><circle cx="295" cy="62" r="9"/><circle cx="334" cy="61" r="9"/></g>
+<g font-family="Arial" font-size="16" font-weight="700" fill="#1f66d1"><text x="47" y="35">0</text><text x="97" y="35">1</text><text x="145" y="35">0</text><text x="192" y="35">1</text><text x="241" y="35">1</text><text x="289" y="35">0</text><text x="328" y="35">1</text></g></g>
+</svg>

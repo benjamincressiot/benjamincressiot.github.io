@@ -1,0 +1,68 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Benjamin Cressiot"
+  description: "Single-molecule nanopore science: proteins, peptides, biomarkers and molecular information"
+  navbar:
+    background: light
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+        icon: house-door
+      - href: news.qmd
+        text: News
+        icon: newspaper
+      - href: research.qmd
+        text: Research
+        icon: beaker
+      - href: publications.qmd
+        text: Publications
+        icon: journal-text
+      - href: funding-collaborations.qmd
+        text: Funding & Innovation
+        icon: people
+      - href: team.qmd
+        text: Team
+        icon: people-fill
+      - href: teaching.qmd
+        text: Teaching
+        icon: mortarboard
+      - href: cv.qmd
+        text: CV
+        icon: file-earmark-person
+      - href: contact.qmd
+        text: Contact
+        icon: envelope
+    right:
+      - icon: linkedin
+        href: https://fr.linkedin.com/in/benjamin-cressiot-1a53a887
+        aria-label: LinkedIn
+      - text: "ORCID"
+        href: https://orcid.org/0000-0001-9319-3152
+        aria-label: ORCID
+      - icon: envelope
+        href: mailto:benjamin.cressiot@cyu.fr
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Benjamin Cressiot"
+    center: "Research conducted within LAMBE · CNRS UMR 8587 · CY Cergy Paris Université"
+    right:
+      - text: "Google Scholar"
+        href: https://scholar.google.com/citations?user=j6joo1gAAAAJ&hl=en
+      - text: "ORCID"
+        href: https://orcid.org/0000-0001-9319-3152
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-after-body: assets/site.js
+
+execute:
+  freeze: auto

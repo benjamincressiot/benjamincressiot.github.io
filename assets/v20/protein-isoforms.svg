@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260">
+<defs><filter id="s"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-opacity=".18"/></filter></defs>
+<rect width="420" height="260" fill="#fff"/>
+<g filter="url(#s)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M70 170 C42 142 68 96 109 112 C134 65 202 68 211 123 C252 96 301 120 285 166 C316 201 267 225 231 201 C201 235 151 221 151 189 C116 215 80 204 70 170Z" stroke="#1e5aa8" stroke-width="10"/>
+<path d="M220 137 C199 105 229 72 264 88 C286 48 344 63 341 106 C383 93 405 136 378 163 C398 195 363 220 334 199 C305 227 263 207 270 177 C242 192 216 174 220 137Z" stroke="#d56b1f" stroke-width="10"/>
+<path d="M137 122 C151 144 176 149 196 133" stroke="#77a4db" stroke-width="5"/>
+<path d="M272 116 C294 137 321 140 343 122" stroke="#efad70" stroke-width="5"/>
+</g>
+<text x="58" y="238" font-family="Arial" font-size="16" fill="#5c6f88">conformers · isoforms · PTMs</text>
+</svg>

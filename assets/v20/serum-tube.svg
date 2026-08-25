@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d74e46"/><stop offset="1" stop-color="#8b1823"/></linearGradient></defs>
+<rect width="420" height="260" fill="#fff"/>
+<g transform="translate(90 18)"><rect x="38" y="8" width="110" height="212" rx="34" fill="#f7fbff" stroke="#8797aa" stroke-width="5"/><rect x="51" y="75" width="84" height="132" rx="24" fill="url(#g)" opacity=".92"/><rect x="30" y="0" width="126" height="30" rx="10" fill="#d7dde5" stroke="#8b97a8" stroke-width="4"/><ellipse cx="93" cy="77" rx="42" ry="9" fill="#f6b09c" opacity=".5"/></g>
+<g fill="#2f6edc"><circle cx="295" cy="62" r="9"/><circle cx="334" cy="98" r="7"/><circle cx="282" cy="132" r="11"/><circle cx="344" cy="160" r="8"/><circle cx="307" cy="195" r="10"/></g>
+<g stroke="#85a9e6" stroke-width="3"><path d="M274 68l-35 25"/><path d="M325 102l-48 14"/><path d="M291 140l-40 30"/><path d="M334 166l-54 13"/></g>
+<text x="246" y="232" font-family="Arial" font-size="16" fill="#5c6f88">serum biomarkers</text>
+</svg>
