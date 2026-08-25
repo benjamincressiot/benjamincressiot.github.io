@@ -78,8 +78,8 @@ toc: false
 
 ## Patents
 
-1. **Method for detection of peptide biomarkers** — Patent No. 11002657.
-2. **Lipid-free anchoring of thermophilic bacteriophage G20C portal adapter into solid-state nanopores** — US11933778B2.
+1. [**Method for detection of peptide biomarkers**](https://patents.google.com/patent/WO2024153816A1/en) — **WO2024153816A1**.
+2. [**Lipid-free anchoring of thermophilic bacteriophage G20C portal adapter into solid-state nanopores**](https://patents.google.com/patent/US12320796B2/en) — **US12320796B2**.
 
 </div>
 </section>
