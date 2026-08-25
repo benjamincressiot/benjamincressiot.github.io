@@ -2727,3 +2727,52 @@ margin:1.5rem 0 2rem;
     margin: 0 auto .4rem !important;
   }
 }
+/* =========================================================
+   V66 — desktop Research fix + remove Quarto heading anchors
+   ========================================================= */
+
+/* Hide Quarto/AnchorJS permalink icons beside headings everywhere.
+   This removes the small chain/lock-looking symbols without changing headings. */
+.anchorjs-link,
+a.anchorjs-link {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+/* Research hero on desktop: give the headline enough room and prevent clipping. */
+@media (min-width: 992px) {
+  .research-v13-hero {
+    grid-template-columns: minmax(0, 1.12fr) minmax(380px, 0.88fr) !important;
+    overflow: visible !important;
+  }
+
+  .research-v13-hero-copy {
+    min-width: 0 !important;
+    overflow: visible !important;
+  }
+
+  .research-v13-hero-copy h1 {
+    width: 100% !important;
+    max-width: 100% !important;
+    font-size: clamp(3.35rem, 4.7vw, 5.7rem) !important;
+    line-height: 0.97 !important;
+    letter-spacing: -0.055em !important;
+    overflow: visible !important;
+    overflow-wrap: normal !important;
+    word-break: normal !important;
+    hyphens: none !important;
+  }
+
+  .research-v13-hero-panel {
+    min-width: 0 !important;
+  }
+}
+
+/* Common laptop widths need a slightly more conservative headline size. */
+@media (min-width: 992px) and (max-width: 1450px) {
+  .research-v13-hero-copy h1 {
+    font-size: clamp(3.1rem, 4.35vw, 4.75rem) !important;
+  }
+}
