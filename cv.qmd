@@ -59,6 +59,8 @@ toc: false
 
 <div class="career-list cv-talk-list">
 
+<div class="career-item"><span>Feb 2026</span><div><h3>Peptide biomarker discrimination and identification: From sequence to conformational dynamics using nanopores</h3><p>Biophysical Society 70th Annual Meeting, Los Angeles, USA · <strong>Oral communication</strong></p></div></div>
+
 <div class="career-item"><span>Jun 2025</span><div><h3>Nanopores for the detection of biomarkers toward early diagnosis</h3><p>CY Cergy Paris University Nanopore Meeting, France · <strong>Oral communication</strong></p></div></div>
 <div class="career-item"><span>Apr 2025</span><div><h3>Nanopores for the detection of biomarkers toward early diagnosis</h3><p>Nanjing University, China · <strong>Oral communication</strong></p></div></div>
 <div class="career-item"><span>Dec 2024</span><div><h3>Detection of peptide biomarkers using aerolysin</h3><p>Zhejiang Sci-Tech University, China · <strong>Oral communication</strong></p></div></div>

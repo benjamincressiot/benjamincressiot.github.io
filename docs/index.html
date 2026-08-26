@@ -35,6 +35,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -72,6 +74,33 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7GVCCNF58V"></script>
+
+<script type="text/plain" cookie-consent="tracking">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-7GVCCNF58V', { 'anonymize_ip': true});
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"simple",
+  "consent_type":"express",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  ,
+"language":"fr"
+  });
+});
+</script> 
+  
 <style>html{ scroll-behavior: smooth; }</style>
 
 
@@ -277,7 +306,57 @@ document.addEventListener('DOMContentLoaded', () => {
         });
       });
     });
+
   }
+
+  // V67 — normalize corresponding-author markers in the published record.
+  const correspondingPapers = new Set(['26', '23', '22', '21', '20', '19', '18']);
+  document.querySelectorAll('.pub-full-list-v15 article').forEach((article) => {
+    const number = article.querySelector('.pub-number')?.textContent.trim();
+
+    // Remove legacy markers that were previously placed on coauthors.
+    article.querySelectorAll('.corresponding-star').forEach((star) => star.remove());
+
+    // Unwrap any stray <em> tags created by Markdown parsing around old asterisks.
+    article.querySelectorAll('em').forEach((em) => {
+      const parent = em.parentNode;
+      while (em.firstChild) parent.insertBefore(em.firstChild, em);
+      parent.removeChild(em);
+    });
+
+    const benjamin = Array.from(article.querySelectorAll('strong')).find(
+      (el) => el.textContent.trim() === 'B. Cressiot'
+    );
+
+    if (benjamin && correspondingPapers.has(number)) {
+      const star = document.createElement('sup');
+      star.className = 'corresponding-star';
+      star.title = 'Corresponding author';
+      star.textContent = '*';
+      benjamin.appendChild(star);
+    }
+  });
+
+  const recordNote = document.querySelector('.pub-record-note-v47');
+  if (recordNote) {
+    recordNote.innerHTML = '<strong>B. Cressiot</strong> is highlighted in each author list; '
+      + '<sup class="corresponding-star">*</sup> after his name denotes corresponding authorship.';
+  }
+
+  // V67 — correct patent identifiers and provide direct Google Patents links on the CV.
+  const patentHeading = Array.from(document.querySelectorAll('.cv-page h2')).find(
+    (h) => h.textContent.trim() === 'Patents'
+  );
+  if (patentHeading) {
+    const list = patentHeading.nextElementSibling;
+    if (list && list.tagName === 'OL') {
+      list.innerHTML = `
+        <li><a href="https://patents.google.com/patent/WO2024153816A1/en" target="_blank" rel="noopener"><strong>Method for detection of peptide biomarkers</strong></a> — <strong>WO2024153816A1</strong>.</li>
+        <li><a href="https://patents.google.com/patent/US12320796B2/en" target="_blank" rel="noopener"><strong>Lipid-free anchoring of thermophilic bacteriophage G20C portal adapter into solid-state nanopores</strong></a> — <strong>US12320796B2</strong>.</li>
+      `;
+    }
+  }
+
 });
 </script>
 <script id="quarto-html-after-body" type="application/javascript">
@@ -693,7 +772,7 @@ document.addEventListener('DOMContentLoaded', () => {
 </div>   
     <div class="nav-footer-center">
 <p>Research conducted within LAMBE · CNRS UMR 8587 · CY Cergy Paris Université</p>
-</div>
+<div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">

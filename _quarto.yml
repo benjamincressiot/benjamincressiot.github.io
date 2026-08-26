@@ -3,6 +3,14 @@ project:
   output-dir: docs
 
 website:
+  cookie-consent:
+    type: express
+    style: simple
+    palette: light
+    language: fr
+  google-analytics:
+    tracking-id: "G-7GVCCNF58V"
+    anonymize-ip: true
   title: "Benjamin Cressiot"
   description: "Single-molecule nanopore science: proteins, peptides, biomarkers and molecular information"
   navbar:
