@@ -1,18 +1,9 @@
 project:
   type: website
   output-dir: docs
-  resources:
-    - CNAME
 
 website:
-  cookie-consent:
-    type: express
-    style: simple
-    palette: light
-    language: fr
-  google-analytics:
-    tracking-id: "G-7GVCCNF58V"
-    anonymize-ip: true
+  site-url: "https://www.benjamincressiot.fr"
   title: "Benjamin Cressiot"
   description: "Single-molecule nanopore science: proteins, peptides, biomarkers and molecular information"
   navbar:
@@ -70,6 +61,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    anchor-sections: false
     smooth-scroll: true
     link-external-newwindow: true
     include-after-body: assets/site.js

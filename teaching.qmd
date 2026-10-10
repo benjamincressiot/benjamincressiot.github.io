@@ -14,7 +14,7 @@ toc: false
 
 <div class="cv-stat-grid">
 <div><strong>1,057</strong><span>Total hETD since 2019</span></div>
-<div><strong>165</strong><span>hETD added in 2025–2026</span></div>
+<div><strong>165</strong><span>hETD reported for 2025–2026</span></div>
 <div><strong>2019</strong><span>Associate Professor since</span></div>
 <div><strong>L1–M2</strong><span>Teaching levels</span></div>
 </div>
@@ -24,6 +24,19 @@ toc: false
 
 <section class="cv-section">
 <div class="cv-inner">
+
+## Teaching responsibilities (selected courses)
+
+| Level | Course / teaching area | Format |
+|:--|:--|:--|
+| L1 | Fundamentals of Life and Health Sciences | Lectures and tutorials |
+| L1 | Fundamental Genetics | Tutorials |
+| L2 | Protein Biochemistry, Enzymology, Protein Maturation, Structure and Function, Experimental Methods | Lectures, tutorials and practicals |
+| L3 | Regulation of Gene Expression | Tutorials |
+| Pre-engineering 1–2 | Life Sciences, Protein Biochemistry and Enzymology | Lectures, tutorials and practicals |
+| M2 Biomedical Sciences (Health track) | Analytical Detection of Biomarkers and Their Variants for Diagnosis | Lectures · 3 h/year |
+
+**International teaching:** doctoral-level courses at Nanjing University (approximately 12 hours/year).
 
 ## Main teaching areas
 

@@ -25,7 +25,23 @@ toc: false
         <span class="news-v38-section-label">LATEST UPDATES</span>
         <h2>Highlights from 2026</h2>
       </div>
-      <p>A year of new single-molecule results, expanding applications and growing collaborations.</p>
+      <p>Recent publications, scientific presentations, outreach and collaborations.</p>
+    </div>
+
+
+    <div class="site-v66-news-feature">
+      <article class="news-v38-card" id="fete-science-2026">
+        <div class="site-v66-gallery"><img src="assets/news/fete-science-demo.jpg" alt="Workshop explaining electrical detection of biomolecules using nanopores"><img src="assets/news/fete-science-team.jpg" alt="Research team at the Fête de la Science nanopore demonstration stand"></div>
+        <div class="news-v38-content"><div class="news-v38-meta"><span>SCIENCE OUTREACH</span><time datetime="2026-10-10">10 October 2026</time></div><h3>Fête de la Science: introducing nanopore sensing to the public</h3><p>Our team presented an interactive workshop and conceptual demonstration of nanopores and the electrical detection of biomolecules. Visitors explored how single molecules can be detected through changes in ionic current, with discussions about biomedical applications.</p></div>
+      </article>
+      <article class="news-v38-card" id="cyu-novo-2026">
+        <div class="news-v38-image news-v38-image-cover"><img src="assets/news/cyu-novo-talk.jpg" alt="Benjamin Cressiot presenting nanopore-based biomarker detection at the CYU–NOVO research meeting"></div>
+        <div class="news-v38-content"><div class="news-v38-meta"><span>CONFERENCE &amp; COLLABORATION</span><time datetime="2026-10-02">2 October 2026</time></div><h3>Nanopore research at the first CYU–Hôpital NOVO health meeting</h3><p>At the first CY Cergy Paris Université–Hôpital NOVO meeting, “Innovating Together for Health”, Benjamin Cressiot delivered a talk on the detection and identification of protein biomarkers by nanopores. The team also contributed five posters on peptide biomarkers, proline isomers, enantiomers and sensing in complex biofluids.</p></div>
+      </article>
+      <article class="news-v38-card" id="small-methods-2026">
+        <div class="news-v38-image"><img src="assets/news/small-methods-toc.png" alt="TOC graphic for the Small Methods review on biomolecular phase and conformational transitions probed by nanopores"></div>
+        <div class="news-v38-content"><div class="news-v38-meta"><span>PUBLICATION · ACCEPTED</span><time>2026</time></div><h3>New review accepted in Small Methods</h3><p>Y. Cai, Y. Liu, L. Bacri, B. Cressiot* and J. Pelta* review how nanopores probe conformational and phase transitions in nucleic acids, proteins and polymers at the single-molecule level. DOI to be added after publication.</p><a href="publications.qmd">See publication record →</a></div>
+      </article>
     </div>
 
     <div class="news-v38-feature-grid">
@@ -46,7 +62,7 @@ toc: false
           <img src="images/elysee.jpg" alt="Benjamin Cressiot and Pierre Defrenaix at the Palais de l’Élysée">
         </div>
         <div class="news-v38-content">
-          <div class="news-v38-meta"><span>SCIENTIFIC OUTREACH</span><time>23 July 2026</time></div>
+          <div class="news-v38-meta"><span>INNOVATION &amp; TRANSFER</span><time>23 July 2026</time></div>
           <h3>Nanopore diagnostics discussed at the Élysée Palace</h3>
           <p>Benjamin Cressiot and Pierre Defrenaix (Excilone) met at the Palais de l’Élysée to discuss the future of DreamPore, a startup hosted at CY Cergy Paris Université, and the development of nanopore-based molecular diagnostics.</p>
           <a href="funding-collaborations.qmd">Funding & innovation <span aria-hidden="true">→</span></a>
@@ -62,7 +78,7 @@ toc: false
         <div class="news-v38-content">
           <div class="news-v38-meta"><span>PUBLICATION</span><time>2026</time></div>
           <h3>New work published in Nature Communications</h3>
-          <p>A major contribution advancing the use of nanopores to resolve molecular information at the single-molecule level.</p>
+          <p>A study of scaling laws for polymer transport in confined media, with implications for nanopore-based biomarker detection.</p>
           <a href="publications.qmd">Explore the publication record <span aria-hidden="true">→</span></a>
         </div>
       </article>
@@ -120,6 +136,27 @@ toc: false
         </div>
       </article>
     </div>
+  </div>
+</section>
+
+<section class="news-v38-section" aria-labelledby="outreach-2025-title">
+  <div class="news-v38-inner">
+    <div class="news-v38-section-heading">
+      <div><span class="news-v38-section-label">SCIENCE OUTREACH · 2025</span><h2 id="outreach-2025-title">Public lecture · March 2025</h2></div>
+      <p>Bringing single-molecule science and biomedical research to a wider audience.</p>
+    </div>
+    <article class="site-v67-video-feature" id="universite-ouverte-2025">
+      <div class="site-v67-video-copy">
+        <span class="news-v38-section-label">UNIVERSITÉ OUVERTE · 27 MARCH 2025</span>
+        <h3>Nanopores: analytical tools for the early diagnosis of diseases</h3>
+        <p>In this public lecture at CY Cergy Paris Université, Benjamin Cressiot explains how nanopores detect biomolecules one at a time and how this technology could contribute to earlier disease diagnosis. The talk introduces electrical nanopore sensing, biomarker detection in biological samples, and potential applications in healthcare, environmental monitoring and energy research.</p>
+        <p><strong>Original French title:</strong> <em>Les nanopores : des outils d’analyse pour le diagnostic précoce de maladies</em>.</p>
+        <p><a href="https://universiteouverte.u-cergy.fr/les-nanopores-des-outils-danalyse-pour-le-diagnostic-precoce-de-maladies/" target="_blank" rel="noopener noreferrer">Official Université Ouverte lecture page ↗</a><br><a href="https://www.youtube.com/watch?v=Crnr5xbU6sA" target="_blank" rel="noopener noreferrer">Watch on YouTube ↗</a></p>
+      </div>
+      <div class="site-v67-video-embed">
+        <iframe src="https://www.youtube-nocookie.com/embed/Crnr5xbU6sA" title="Les nanopores : des outils d’analyse pour le diagnostic précoce de maladies — Université Ouverte, 27 March 2025" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </div>
+    </article>
   </div>
 </section>
 

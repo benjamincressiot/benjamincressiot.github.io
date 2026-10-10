@@ -40,10 +40,10 @@ toc: false
 ## Scientific indicators
 
 <div class="cv-stat-grid">
-<div><strong>26</strong><span>Peer-reviewed articles</span></div>
-<div><strong>1,719</strong><span>Google Scholar citations</span></div>
+<div><strong>27</strong><span>Peer-reviewed articles</span></div>
+<div><strong>1,767+</strong><span>Google Scholar citations (October 2026)</span></div>
 <div><strong>19</strong><span>h-index</span></div>
-<div><strong>20</strong><span>i10-index</span></div>
+<div><strong>21</strong><span>i10-index</span></div>
 </div>
 
 ## International invited lectures
@@ -55,12 +55,19 @@ toc: false
 - **August 2021 · Rennes, France (online)** — *Single-sulfur resolution polysulfide sensing: first steps in nanopores as battery sensors.* Journées de la matière condensée — Guest lecture.
 - **October 2020 · Nanjing University, China (online)** — *Single-sulfur resolution polysulfide sensing: first steps in nanopores as battery sensors.* Nanopore Electrochemistry Meeting — Guest lecture.
 
+## Research outreach and international teaching
+
+- **October 2026 · Fête de la Science, France** — Interactive workshop and conceptual demonstrations on nanopores and the electrical detection of biomolecules.
+- **October 2026 · CY Cergy Paris Université–Hôpital NOVO research meeting** — Oral presentation on protein biomarker detection by nanopores; five team poster contributions.
+- **Nanjing University, China** — Doctoral-level teaching in nanopore science (approximately 12 hours per year).
+
+- **27 March 2025 · Université Ouverte, CY Cergy Paris Université** — Public lecture, *Les nanopores : des outils d’analyse pour le diagnostic précoce de maladies*. [Watch the full recording](news.qmd#universite-ouverte-2025).
+
 ## Oral communications and posters
 
 <div class="career-list cv-talk-list">
 
-<div class="career-item"><span>Feb 2026</span><div><h3>Peptide biomarker discrimination and identification: From sequence to conformational dynamics using nanopores</h3><p>Biophysical Society 70th Annual Meeting, Los Angeles, USA · <strong>Oral communication</strong></p></div></div>
-
+<div class="career-item"><span>Oct 2026</span><div><h3>Détection et identification de biomarqueurs protéiques par nanopore</h3><p>First CY Cergy Paris Université–Hôpital NOVO Research Meeting · <strong>Oral communication</strong></p></div></div>
 <div class="career-item"><span>Jun 2025</span><div><h3>Nanopores for the detection of biomarkers toward early diagnosis</h3><p>CY Cergy Paris University Nanopore Meeting, France · <strong>Oral communication</strong></p></div></div>
 <div class="career-item"><span>Apr 2025</span><div><h3>Nanopores for the detection of biomarkers toward early diagnosis</h3><p>Nanjing University, China · <strong>Oral communication</strong></p></div></div>
 <div class="career-item"><span>Dec 2024</span><div><h3>Detection of peptide biomarkers using aerolysin</h3><p>Zhejiang Sci-Tech University, China · <strong>Oral communication</strong></p></div></div>
@@ -78,10 +85,16 @@ toc: false
 
 </div>
 
+## Academic service
+
+- Assistant de Prévention (health and safety prevention officer).
+- Member of the departmental council.
+- Expert for academic career advancement evaluations (since 2025).
+
 ## Patents
 
-1. [**Method for detection of peptide biomarkers**](https://patents.google.com/patent/WO2024153816A1/en) — **WO2024153816A1**.
-2. [**Lipid-free anchoring of thermophilic bacteriophage G20C portal adapter into solid-state nanopores**](https://patents.google.com/patent/US12320796B2/en) — **US12320796B2**.
+1. **Method for detection of peptide biomarkers** — Patent No. 11002657.
+2. **Lipid-free anchoring of thermophilic bacteriophage G20C portal adapter into solid-state nanopores** — US11933778B2.
 
 </div>
 </section>

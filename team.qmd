@@ -73,9 +73,9 @@ toc: false
           <img src="assets/profile/laura-ratinho.jpeg" alt="Laura Ratinho">
         </div>
         <div class="team-v35-card-body">
-          <span class="team-v35-status">PhD candidate · since October 2023</span>
+          <span class="team-v35-status">PhD candidate (since October 2023) · research engineer from October 2026</span>
           <h3>Laura Ratinho</h3>
-          <p>Electrical detection of protein biomarkers in biological fluids using nanopores.</p>
+          <p>Electrical detection of protein biomarkers in biological fluids using nanopores; research engineering on UCHL1 and S100B biomarker sensing.</p>
           <p class="team-v35-meta">Co-supervised with Prof. Juan Pelta</p>
           <a class="team-v37-linkedin" href="https://www.linkedin.com/in/laura-ratinho-a1b038197/" target="_blank" rel="noopener">LinkedIn</a>
         </div>

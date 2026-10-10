@@ -1,0 +1,68 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+<div class="cv-page">
+
+<section class="cv-hero">
+<div class="cv-inner">
+<span class="research-v8-kicker">TEACHING</span>
+# Biochemistry and molecular biology education
+<p class="cv-lead">Teaching from first-year undergraduate to second-year master’s level (L1–M2), with a focus on biochemistry, cell biology, molecular biology and experimental methods.</p>
+
+<div class="cv-stat-grid">
+<div><strong>1,057</strong><span>Total hETD since 2019</span></div>
+<div><strong>165</strong><span>hETD added in 2025–2026</span></div>
+<div><strong>2019</strong><span>Associate Professor since</span></div>
+<div><strong>L1–M2</strong><span>Teaching levels</span></div>
+</div>
+
+</div>
+</section>
+
+<section class="cv-section">
+<div class="cv-inner">
+
+## Main teaching areas
+
+<div class="teaching-grid">
+
+<div class="teaching-card">
+### Cell biology
+Foundations in life and health sciences, delivered through lectures and tutorials.
+</div>
+
+<div class="teaching-card">
+### Protein biochemistry
+Protein structure, maturation, function and biochemical mechanisms.
+</div>
+
+<div class="teaching-card">
+### Enzymology and molecular biology
+Enzymatic mechanisms and molecular biology techniques.
+</div>
+
+<div class="teaching-card">
+### Experimental methods
+Practical training in biological experimentation and laboratory methods.
+</div>
+
+<div class="teaching-card">
+### Genetics and gene expression
+Basic genetics and regulation of gene expression.
+</div>
+
+<div class="teaching-card">
+### Course development
+Creation and coordination of new teaching units since appointment in 2019.
+</div>
+
+</div>
+
+
+</div>
+</section>
+
+</div>

@@ -1,0 +1,133 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+<div class="research-v13 research-v14">
+
+<section class="research-v13-hero">
+<div class="research-v13-hero-copy reveal">
+<span class="v12-section-label">RESEARCH PROGRAMME</span>
+
+# Reading chemistry, structure and information at the single-molecule level
+
+<p class="research-v13-lead">My research develops biological and solid-state nanopores as electrical observatories for proteins, peptides, disease biomarkers and sequence-defined polymers.</p>
+
+<div class="v12-actions">
+[Explore the research axes](#research-axes){.btn .btn-primary}
+[Selected publications](publications.qmd){.btn .btn-outline-primary}
+</div>
+</div>
+
+<div class="research-v13-hero-panel reveal">
+<div class="research-v19-panel-kicker">SINGLE-MOLECULE NANOPORE SCIENCE</div>
+<div class="research-v13-question">How much molecular information can be extracted from one molecule?</div>
+<p class="research-v19-panel-text">Connecting pore architecture, molecular transport and quantitative ionic-current fingerprints.</p>
+<div class="research-v13-keywords"><span>Transport</span><span>Conformation</span><span>Isomers</span><span>PTMs</span><span>Sequence</span></div>
+</div>
+</section>
+
+<section class="v12-section research-v13-intro reveal">
+<div class="v12-section-label">SCIENTIFIC STRATEGY</div>
+<h2>From nanopore transport to molecular interpretation</h2>
+<p class="v12-lead">A nanopore experiment is not only a detection event. The amplitude, duration, fluctuations and population structure of an electrical signal report on molecular charge, shape, conformation, dynamics and interactions with the pore. My programme connects these observables to chemically meaningful questions.</p>
+</section>
+
+<section class="v12-section" id="research-axes">
+<div class="v12-heading-row reveal"><div><div class="v12-section-label">RESEARCH AXES</div><h2>Four connected directions</h2></div></div>
+
+<div class="research-v46-axis-grid">
+
+<article class="research-v46-card reveal">
+<div class="research-v30-card-head"><span class="research-v13-axis-number">01</span><span class="v12-tag">BIOLOGICAL NANOPORES</span></div>
+<h3>Engineering aerolysin as a molecular reader</h3>
+<p>Aerolysin is engineered as a highly sensitive electrical reader of proteins and peptides. Pore architecture, internal charge and electrolyte conditions are tuned to control capture, transport and signal resolution.</p>
+<div class="research-v46-focus"><span>Engineered constrictions</span><span>Electro-osmotic flow</span><span>Transport dynamics</span></div>
+<div class="research-v46-papers"><strong>Representative papers</strong><a href="https://doi.org/10.1021/acsnano.5c08031">ACS Nano 2025</a><a href="https://doi.org/10.1039/D5SC01156F">Chemical Science 2025</a><a href="https://doi.org/10.1021/acssensors.8b01636">ACS Sensors 2019</a></div>
+</article>
+
+<article class="research-v46-card reveal">
+<div class="research-v30-card-head"><span class="research-v13-axis-number">02</span><span class="v12-tag">SOLID-STATE NANOPORES</span></div>
+<h3>Transport and sensing in complex environments</h3>
+<p>Solid-state nanopores provide robust platforms for studying confined molecular transport and detecting biomarkers in demanding media. Controlled polymer environments and data analysis extend sensing toward serum-containing samples.</p>
+<div class="research-v46-focus"><span>Confined transport</span><span>PEG crowding</span><span>Machine learning</span></div>
+<div class="research-v46-papers"><strong>Representative papers</strong><a href="https://doi.org/10.1038/s41467-026-68912-4">Nature Communications 2026</a><a href="https://doi.org/10.1021/acsnano.3c08433">ACS Nano 2023</a><a href="https://doi.org/10.1021/nn301672g">ACS Nano 2012</a></div>
+</article>
+
+<article class="research-v46-card reveal">
+<div class="research-v30-card-head"><span class="research-v13-axis-number">03</span><span class="v12-tag">DISEASE BIOMARKERS</span></div>
+<h3>Resolving clinically relevant molecular variants</h3>
+<p>Nanopore fingerprints distinguish closely related biomarkers through differences in terminal residues, stereochemistry, conformation or post-translational modification, including measurements in complex biological matrices.</p>
+<div class="research-v46-focus"><span>Peptide isomers</span><span>Conformations & PTMs</span><span>Serum analysis</span></div>
+<div class="research-v46-papers"><strong>Representative papers</strong><a href="https://doi.org/10.1021/acscentsci.4c00020">ACS Central Science 2024</a><a href="https://doi.org/10.1021/acscentsci.2c01256">ACS Central Science 2023</a><a href="https://doi.org/10.1038/s41467-025-58509-8">Nature Communications 2025</a></div>
+</article>
+
+<article class="research-v46-card reveal">
+<div class="research-v30-card-head"><span class="research-v13-axis-number">04</span><span class="v12-tag">EMERGING APPLICATIONS</span></div>
+<h3>Reading molecular information and reactive species</h3>
+<p>Nanopore sensing is extended beyond conventional biomolecules toward sequence-defined digital polymers and reactive polysulfides involved in lithium–sulfur battery chemistry.</p>
+<div class="research-v46-split">
+<div><strong>Digital polymers</strong><span>Transport control, engineered sensing regions and consensus-based decoding.</span><small>PEPR MolecularXiv</small></div>
+<div><strong>Energy chemistry</strong><span>Single-molecule identification of polysulfides and reaction intermediates.</span><small>PEPR SENSIGA Batteries</small></div>
+</div>
+<div class="research-v46-papers"><strong>Representative paper</strong><a href="https://doi.org/10.1038/s43246-020-00056-4">Communications Materials 2020</a></div>
+</article>
+
+</div>
+</section>
+
+<section class="v12-section research-visuals-v18">
+<div class="v12-heading-row reveal"><div><div class="v12-section-label">NANOPORE READOUT</div><h2>From pore structure to electrical fingerprint</h2></div></div>
+<div class="research-visual-grid-v18">
+<figure class="research-visual-card-v18 reveal current-trace-card-v18">
+<img src="assets/current-trace-parameters.png" alt="Annotated ionic-current trace showing blockade amplitude, dwell time and current fluctuations">
+<figcaption><strong>Single-molecule ionic-current signatures.</strong> Blockade depth, dwell time and event fluctuations provide complementary descriptors of molecular identity, conformation and dynamics.</figcaption>
+</figure>
+<figure class="research-visual-card-v18 reveal aerolysin-card-v18">
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Aerolysin_gif.gif" alt="Rotating molecular structure of the aerolysin nanopore" loading="lazy">
+<figcaption><strong>Aerolysin nanopore architecture.</strong> Rotating view of the pore used as a single-molecule sensing element. Animation: Nano1FB, PDB 9FM6, <a href="https://commons.wikimedia.org/wiki/File:Aerolysin_gif.gif?uselang=fr">CC BY-SA 4.0</a>.</figcaption>
+</figure>
+</div>
+</section>
+
+<section class="v12-section research-v13-framework">
+<div class="v12-heading-row reveal"><div><div class="v12-section-label">EXPERIMENTAL LOGIC</div><h2>A complete chain from molecule to interpretation</h2></div></div>
+<div class="research-v13-framework-grid">
+<div class="reveal"><strong>1</strong><h3>Design the sensing environment</h3><p>Pore, membrane, electrolyte, voltage and molecular conditions.</p></div>
+<div class="reveal"><strong>2</strong><h3>Control molecular transport</h3><p>Capture, orientation, translocation, confinement and interactions.</p></div>
+<div class="reveal"><strong>3</strong><h3>Extract electrical fingerprints</h3><p>Blockade depth, dwell time, fluctuations and event populations.</p></div>
+<div class="reveal"><strong>4</strong><h3>Resolve molecular identity</h3><p>Chemical variants, conformers, biomarkers and encoded sequences.</p></div>
+</div>
+</section>
+
+<section class="v12-section">
+<div class="v12-heading-row reveal"><div><div class="v12-section-label">SELECTED MILESTONES</div><h2>Scientific progression</h2></div><a href="publications.qmd">View publications →</a></div>
+<div class="research-v13-timeline">
+<div class="reveal"><span>2012–2015</span><h3>Protein transport through protein and solid-state nanopores</h3><p>Establishing a mechanistic foundation for confined protein transport and nanopore sensing.</p></div>
+<div class="reveal"><span>2018</span><h3>Biological adapters for solid-state nanopores</h3><p>Thermostable viral portal proteins developed as programmable sensing elements.</p></div>
+<div class="reveal"><span>2024</span><h3>Peptide stereochemistry at the single-molecule level</h3><p>Nanopore discrimination of a peptide biomarker and its enantiomer.</p></div>
+<div class="reveal"><span>2025</span><h3>Conformational and isomeric resolution</h3><p>Electrical identification of subtle peptide states, including proline cis/trans isomers.</p></div>
+<div class="reveal"><span>Current</span><h3>Complex samples and molecular decoding</h3><p>Advancing biomarker detection in realistic matrices and reading information encoded in synthetic polymers.</p></div>
+</div>
+</section>
+
+
+<section class="v12-section research-v13-methods">
+<div class="v12-heading-row reveal"><div><div class="v12-section-label">CAPABILITIES</div><h2>Experimental and analytical expertise</h2></div></div>
+<div class="methods-grid-v8">
+<div class="method-v8 reveal"><span>∿</span><h3>Electrophysiology</h3><p>Low-noise ionic-current acquisition and event-level analysis.</p></div>
+<div class="method-v8 reveal"><span>◫</span><h3>Protein nanopores</h3><p>Aerolysin sensing, transport control and pore engineering.</p></div>
+<div class="method-v8 reveal"><span>⬡</span><h3>Solid-state nanopores</h3><p>Transport in confined media and complex samples.</p></div>
+<div class="method-v8 reveal"><span>◎</span><h3>Biomarker analysis</h3><p>Proteins, peptides, isomers and post-translational modifications.</p></div>
+<div class="method-v8 reveal"><span>▥</span><h3>Data analysis</h3><p>Multidimensional fingerprints, classification and machine learning.</p></div>
+<div class="method-v8 reveal"><span>⌁</span><h3>Molecular design</h3><p>Connecting chemistry, conformation and nanopore readout.</p></div>
+</div>
+</section>
+
+<section class="v12-section v12-closing reveal">
+<div><div class="v12-section-label">COLLABORATION</div><h2>Advancing nanopore science across disciplines</h2><p>Potential collaborations are especially relevant in peptide and protein chemistry, biomarker analysis, sequence-defined polymers, molecular modelling and energy materials.</p></div>
+<div class="v12-actions">[Contact](contact.qmd){.btn .btn-primary}[Funding & innovation](funding-collaborations.qmd){.btn .btn-outline-light}</div>
+</section>
+
+</div>

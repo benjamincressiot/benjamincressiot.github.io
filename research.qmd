@@ -130,4 +130,10 @@ toc: false
 <div class="v12-actions">[Contact](contact.qmd){.btn .btn-primary}[Funding & innovation](funding-collaborations.qmd){.btn .btn-outline-light}</div>
 </section>
 
+
+<section class="v12-section site-v66-research-note">
+ <div class="v12-section-label">MOLECULAR INFORMATION</div>
+ <h2>From discriminating known polymers to decoding sequences</h2>
+ <p>Our research with sequence-defined digital polymers addresses the physical basis of single-molecule molecular reading. The goal is to control capture and translocation, improve ionic-current resolution and engineer complementary biological nanopores, moving progressively from discrimination of known sequences toward decoding of previously unknown molecular information. This direction is scientifically distinct from biomarker detection and complements collaborative work on molecular data storage.</p>
+</section>
 </div>
